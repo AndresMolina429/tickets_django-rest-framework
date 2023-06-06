@@ -1,0 +1,17 @@
+.env
+**/migrations/*.py
+!**/migrations/__init__.py
+*.sql
+*.xlsx
+*.xml
+*.pdf
+*.zip
+*.json
+*.log
+*.pyc
+*.mp4
+*.jpeg
+*.jpg
+*.JPG
+*.png
+__pycache__
